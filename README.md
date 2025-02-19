@@ -1,25 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amn9909&label=Profile%20views&color=0e75b6&style=flat" alt="amn9909" />
 </p>
 
 ## Tech Stack
 
-**Client:** React, Next Redux, TailwindCSS
+**Client:** ReactJs, NextJs, Redux, TailwindCSS
 
-**Server:** Node, Nest, Express
+**Server:** NodeJs, NestJs, ExpressJs
 
 
 ## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## 🔗 Let's connect
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-amn-xdgg.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amankaziak)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/amn_ak09)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amn9909)
 
-## 🔗 Ler's connect
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
@@ -77,17 +77,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amn9909&layout=compact&count_private=true&langs_count=6" alt="amn9909" />
 </p>
 
-<h3 align="center">GitHub Activity:</h3>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=amn9909&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-
 ## Authors
 
-- [@octokatherine](https://www.github.com/amn9909)
+- [@amn9909](https://www.github.com/amn9909)
 
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://portfolio-amn-xdgg.vercel.app)
